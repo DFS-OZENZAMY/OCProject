@@ -1,0 +1,11 @@
+data
+__pycache__
+*.csv
+*.pdf
+models
+mlruns
+img
+.ipynb_checkpoints
+.venv
+mlflow_model
+mlruns
