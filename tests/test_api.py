@@ -24,3 +24,6 @@ def test_check_client_id():
     assert response.status_code == 200
     response_data = response.json()
     assert response_data in [True, False]  # The response should be either True or False
+
+
+    
