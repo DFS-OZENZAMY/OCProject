@@ -51,7 +51,7 @@ def welcome():
     :param: None
     :return: Message (string).
     """
-    return 'Welcome to the API'
+    return 'Bienvenue a API'
 
 @app.get('/{client_id}')
 def check_client_id(client_id: int):
