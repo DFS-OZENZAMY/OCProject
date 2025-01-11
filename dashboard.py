@@ -2,7 +2,7 @@ import streamlit as st
 import requests
 
 # Définir l'URL de base de l'API
-base_url = "http://127.0.0.1:8000"
+base_url = "https://ocproject.onrender.com"
 
 st.title("Prédiction de Prêt")
 
